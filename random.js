@@ -1,0 +1,2 @@
+var numero = Math.random();
+
